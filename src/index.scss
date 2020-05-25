@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; //if item with 200 px with boxing no change with px 
+}
+$mainBlack: #222;
+$mainGreen: green;
+$mainWhite: white;
+$mainGrey: grey;
+$mainTransition:all 0.3s linear;
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: $mainGrey;
+    //color: $mainGreen;
+}
